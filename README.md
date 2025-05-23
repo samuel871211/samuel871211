@@ -1,1 +1,6 @@
-[Yusheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel871211)
+## 🎯 About Me
+<div>
+  <a href="https://www.cake.me/me/xxx">
+    <img src="https://img.shields.io/badge/📄_Resume-View_My_Profile-brightgreen?style=for-the-badge&logo=cake&logoColor=white" alt="Resume"/>
+  </a>
+</div>
